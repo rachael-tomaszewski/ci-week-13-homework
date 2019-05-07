@@ -67,6 +67,11 @@ body {
   font-size: 10px;
 }
 
+h1 {
+  padding-left: 30px;
+  max-width: 500px;
+}
+
 head {
   margin-left: 1165px;
   margin-top: 10px;
@@ -77,7 +82,7 @@ head {
 p {
   font-family: "futura", sans-serif;
   font-size: 18px;
-  padding-left: 10px;
+  padding-left: 30px;
   padding-top: 15px;
   text-align: left;
   max-width: 500px;
